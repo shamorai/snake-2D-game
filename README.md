@@ -38,4 +38,3 @@ The game demonstrates core programming concepts such as **game loops, arrays, in
 - Collision detection logic
 - Keyboard input handling
 - Console-based rendering
-
